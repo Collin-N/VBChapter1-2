@@ -89,7 +89,7 @@ Partial Class Form1
         Me.Controls.Add(Me.btnPunchLine)
         Me.Controls.Add(Me.btnSetup)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "0"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
